@@ -1,6 +1,6 @@
 # Sentiment Analysis App
 
-![App Screenshot](insert_your_screenshot_url_here)
+<img src="app image/image.png" alt="App screenshot" width="800">
 
 ## Overview
 
